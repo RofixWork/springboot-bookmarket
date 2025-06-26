@@ -1,5 +1,3 @@
----
-````markdown
 # 📚 Spring Boot Book Market
 
 A simple shopping cart system for managing books — built using Java, Spring Boot, and H2. This project simulates a basic book store backend with cart functionality — ideal for educational purposes and beginner practice in Spring Boot.
